@@ -83,7 +83,7 @@ Para contribuir com o projeto, siga estas etapas:
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](https://opensource.org/license/mit) para mais detalhes.
 
 ## Autores
 
