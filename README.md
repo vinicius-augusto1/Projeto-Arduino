@@ -88,7 +88,8 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](http
 ## Autores
 
 - [Vinícius Augusto](https://github.com/Dev-Vinicius1) 
-
+- [Dennys Bergamaschi](https://github.com/DevDennys) 
+- [Gabriel Braian](https://github.com/gabrieljpeg)
 
 ## Agradecimentos
 
