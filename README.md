@@ -85,13 +85,6 @@ Para contribuir com o projeto, siga estas etapas:
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](https://opensource.org/license/mit) para mais detalhes.
 
-## Autores
-
-- [Vinícius Augusto](https://github.com/Dev-Vinicius1) 
-- [Dennys Bergamaschi](https://github.com/DevDennys) 
-- [Gabriel Braian](https://github.com/gabrieljpeg)
-- [Felipe Lima](https://github.com/FelipeAkino)
-
 ## Agradecimentos
 
 - Agradeço especialmente ao **Professor Alexandre Bartoli Monteiro** pela orientação e organização desse projeto.
